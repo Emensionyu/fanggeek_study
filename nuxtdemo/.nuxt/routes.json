@@ -1,0 +1,30 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\fangeek\\\\nuxtdemo\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_625e134e"
+  },
+  {
+    "name": "news",
+    "path": "/news",
+    "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\fangeek\\\\nuxtdemo\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "_name": "_95daebf4"
+  },
+  {
+    "name": "news-id",
+    "path": "/news/:id",
+    "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\fangeek\\\\nuxtdemo\\\\pages\\\\news\\\\_id.vue",
+    "chunkName": "pages/news/_id",
+    "_name": "_51a755ee"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\fangeek\\\\nuxtdemo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_82182d0e"
+  }
+]
