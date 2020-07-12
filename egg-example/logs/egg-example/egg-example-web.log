@@ -1,0 +1,116 @@
+2020-07-12 13:09:53,778 ERROR 12364 [-/undefined/-/5031ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\urllib\lib\urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5020,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+headerSent: true
+pid: 12364
+hostname: PC
+
+2020-07-12 13:11:27,594 ERROR 9484 [-/::1/-/5028ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\urllib\lib\urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5019,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9484
+hostname: PC
+
+2020-07-12 13:11:51,408 ERROR 9484 [-/::1/-/5003ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\urllib\lib\urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5001,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9484
+hostname: PC
+
+2020-07-12 13:12:49,793 ERROR 9484 [-/::1/-/5004ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":3,"createSocketErrorCount":0,"closeSocketCount":3,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\urllib\lib\urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ConnectionTimeoutError"
+requestId: 3
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9484
+hostname: PC
+
+2020-07-12 13:15:13,474 ERROR 6124 [-/::1/-/5ms GET /news] nodejs.Template render error: (C:\Users\Administrator\Desktop\fangeek\egg-example\app\view\news\list.tpl)
+  unexpected end of file
+  unexpected end of file
+    at Object._prettifyError (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:536:21)
+    at C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:325:11)
+    at C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:337:9
+    at next (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\lib.js:280:7)
+    at Object.asyncIter (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\lib.js:286:3)
+    at NunjucksEnvironment.getTemplate (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:319:9)
+    at NunjucksEnvironment.render (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:358:10)
+name: "Template render error"
+pid: 6124
+hostname: PC
+
+2020-07-12 13:15:15,311 ERROR 6124 [-/::1/-/2ms GET /news] nodejs.Template render error: (C:\Users\Administrator\Desktop\fangeek\egg-example\app\view\news\list.tpl)
+  unexpected end of file
+  unexpected end of file
+    at Object._prettifyError (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:536:21)
+    at C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:325:11)
+    at C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:337:9
+    at next (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\lib.js:280:7)
+    at Object.asyncIter (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\lib.js:286:3)
+    at NunjucksEnvironment.getTemplate (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:319:9)
+    at NunjucksEnvironment.render (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:358:10)
+name: "Template render error"
+pid: 6124
+hostname: PC
+
+2020-07-12 13:15:28,811 ERROR 11864 [-/::1/-/30ms GET /news] nodejs.Template render error: (C:\Users\Administrator\Desktop\fangeek\egg-example\app\view\news\list.tpl)
+  unexpected end of file
+  unexpected end of file
+    at Object._prettifyError (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:536:21)
+    at C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:325:11)
+    at C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:337:9
+    at next (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\lib.js:280:7)
+    at Object.asyncIter (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\lib.js:286:3)
+    at NunjucksEnvironment.getTemplate (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:319:9)
+    at NunjucksEnvironment.render (C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\nunjucks\src\environment.js:358:10)
+name: "Template render error"
+pid: 11864
+hostname: PC
+

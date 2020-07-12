@@ -1,0 +1,66 @@
+2020-07-12 12:48:37,075 INFO 12840 [Timer] C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 56482927ms at 2020-07-13 04:30:00.002
+2020-07-12 12:48:37,076 INFO 12840 [Timer] C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 40282924ms at 2020-07-13 00:00:00.000
+2020-07-12 12:48:37,076 INFO 12840 [Timer] C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 40283924ms at 2020-07-13 00:00:01.000
+2020-07-12 12:48:36,887 INFO 2688 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 12:48:36,887 INFO 2688 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 12:48:36,887 INFO 2688 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 12:55:56,017 INFO 11060 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 12:55:56,017 INFO 11060 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 12:55:56,017 INFO 11060 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 12:56:00,723 INFO 6036 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 12:56:00,723 INFO 6036 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 12:56:00,723 INFO 6036 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 12:56:55,327 INFO 5592 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 12:56:55,327 INFO 5592 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 12:56:55,327 INFO 5592 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 12:58:14,144 INFO 6056 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 12:58:14,144 INFO 6056 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 12:58:14,144 INFO 6056 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 12:58:21,659 INFO 12000 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 12:58:21,659 INFO 12000 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 12:58:21,659 INFO 12000 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:00:21,821 INFO 4516 [Timer] C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 55778183ms at 2020-07-13 04:30:00.004
+2020-07-12 13:00:21,822 INFO 4516 [Timer] C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 39578179ms at 2020-07-13 00:00:00.001
+2020-07-12 13:00:21,823 INFO 4516 [Timer] C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 39579178ms at 2020-07-13 00:00:01.001
+2020-07-12 13:00:21,597 INFO 9780 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:00:21,597 INFO 9780 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:00:21,597 INFO 9780 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:01:41,272 INFO 11112 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:01:41,272 INFO 11112 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:01:41,272 INFO 11112 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:01:43,237 INFO 11416 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:01:43,237 INFO 11416 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:01:43,237 INFO 11416 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:04:15,887 INFO 12960 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:04:15,887 INFO 12960 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:04:15,887 INFO 12960 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:04:28,666 INFO 9700 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:04:28,666 INFO 9700 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:04:28,666 INFO 9700 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:04:51,768 INFO 1644 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:04:51,768 INFO 1644 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:04:51,768 INFO 1644 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:05:43,321 INFO 6856 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:05:43,321 INFO 6856 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:05:43,321 INFO 6856 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:07:46,814 INFO 13128 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:07:46,815 INFO 13128 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:07:46,815 INFO 13128 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:07:48,186 INFO 3756 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:07:48,186 INFO 3756 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:07:48,186 INFO 3756 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:09:05,405 INFO 4476 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:09:05,405 INFO 4476 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:09:05,405 INFO 4476 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:09:12,015 INFO 12364 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:09:12,015 INFO 12364 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:09:12,015 INFO 12364 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:11:06,624 INFO 9484 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:11:06,624 INFO 9484 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:11:06,624 INFO 9484 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:14:40,819 INFO 6124 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:14:40,819 INFO 6124 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:14:40,819 INFO 6124 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-07-12 13:15:28,463 INFO 11864 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-07-12 13:15:28,463 INFO 11864 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-07-12 13:15:28,464 INFO 11864 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\fangeek\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
